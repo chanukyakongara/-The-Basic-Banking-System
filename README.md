@@ -1,4 +1,4 @@
-# -The-Basic-Banking-System
+# The-Basic-Banking-System
 Hello,
 
 Myself Kongara Chanukya.
